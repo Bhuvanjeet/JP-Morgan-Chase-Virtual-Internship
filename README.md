@@ -8,7 +8,7 @@ https://www.insidesherpa.com/virtual-internships/R5iK7HMxJGBgaSbvk
 
 # Certificate of Completion
 
-
+![Screenshot](CertificateScreenshot.png)
 
 # For any doubts/queries
 
