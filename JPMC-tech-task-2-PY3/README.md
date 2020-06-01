@@ -1,5 +1,5 @@
 <p align="center">
-<p><b> Task -2: Use JPMorgan Chase frameworks and tools </b></p>
+<p><b> Task-2: Use JPMorgan Chase frameworks and tools </b></p>
 <img src="https://insidesherpa-assets.s3-ap-southeast-2.amazonaws.com/icons/jpmorgan/github+repo+images/jpmc+github+img.png">
 	</a>
 </p>
